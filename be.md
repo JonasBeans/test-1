@@ -18,6 +18,6 @@
 
 to upload changes to a remote repository: 
 
-git add . 
-git commit . --message "Choose a descriptive name"
-git push
+git add .<br>
+git commit . --message "Choose a descriptive name"<br>
+git push<br>
