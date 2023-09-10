@@ -1,6 +1,6 @@
 # Learned commands:
 
-## Linus commands:
+## Linux commands:
 - ls : list everything in a directory
 - cd : change directory
 - cat : show content of a file
